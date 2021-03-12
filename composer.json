@@ -1,0 +1,12 @@
+{
+  "name": "whikloj/fedora_stomp_php",
+  "description": "PHP Stomp example for Fedora",
+  "require": {
+    "stomp-php/stomp-php": "4.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "whikloj\\fedoraStompPhp\\": "src"
+    }
+  }
+}
